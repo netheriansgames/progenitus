@@ -21,11 +21,11 @@ um novo paradigma e mecânica: CRAMMT Cartas+Realidade Aumentada+Mobile+Multipla
 
 ## História de Fundo
 
-    Nos dias atuais existem seres que poucos sabem de sua existência: Criaturas sobrenaturais,
+  Nos dias atuais existem seres que poucos sabem de sua existência: Criaturas sobrenaturais,
 monstros e seres mitológicos. Para manter o mundo em ordem e o Caos não consumir o mundo conhecido
 dos humanos, ao passar das Eras um grupo de humanos desvendou o segredo da realidade e de
 como manipulá-la. Eles vieram a ser conhecidos como OmniHumanos ou simplesmente: Magos.
-    Com o passar do tempo, esse grupo criou hierarquia de conhecimentos e habilidades devido a entrada,
+  Com o passar do tempo, esse grupo criou hierarquia de conhecimentos e habilidades devido a entrada,
 necessária de novos membros. Existe uma luta constante entre os ArquiMagus e criaturas do mal, mas
 todos os seres-humanos tem uma falha, são sedentos por mais. E atualmente existe uma guerra interna
 para dominar todos os Magus. A esperança está na profecia que conta do surgimento de magus que seriam capazes de
