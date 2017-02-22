@@ -38,7 +38,7 @@ reaver a ordem e acabar com todas as criaturas que abalam o submundo, são eles 
 
 ### Personagens
 
-* Ictus Natsogai
+* Ictus Natsogai : Personagem Principal
 * Marie Portman
 * Alex Merson
 * Daniel Salvatore
